@@ -133,7 +133,6 @@ Your task:
 Caption rules:
 - Start with emoji (🔥 🚨 👀)
 - Emotional + engaging
-- End with a question
 
 ---
 
